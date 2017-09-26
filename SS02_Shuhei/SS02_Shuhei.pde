@@ -1,7 +1,7 @@
 /* Titile:ZAP
 Shuhei Matsuyama : Week-03 assignment
 */
-
+//
 int r=0;
 int s=0;
 int spin=3;
