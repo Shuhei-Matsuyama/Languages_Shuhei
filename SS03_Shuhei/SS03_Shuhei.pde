@@ -1,6 +1,6 @@
 //BOX//
 //Shuhei Matsuyama | 09-26-2017//
-//Left X
+//Left X//
 int x = 50;
 int x1 = 50;
 int x2 = 50;
