@@ -1,5 +1,5 @@
 /* 
-/// 3D CAT ///
+//// 3D CAT ///
 move mouse X-axis > whisker
 move mouse Y-axis > 3D effects
 mouse press > 3D glasses
